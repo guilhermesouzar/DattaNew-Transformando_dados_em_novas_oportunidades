@@ -42,6 +42,8 @@ gerando eventos que permitem aos vendedores se conectar e fortalecer os vínculo
 
 **ETL:** Pipeline customizado para extração, transformação e carga de dados analíticos.
 
+## Feedbacks
+![image](https://github.com/user-attachments/assets/30e5a88b-9a5a-4dcf-83dd-da2af676403e)
 
 
 ---
